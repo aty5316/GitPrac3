@@ -5,4 +5,5 @@ int main(){
     printf("Введите два числа\n");
     scanf("%d%d", &a, &b);
     printf("%d + %d = %d", a, b, a-b);
+    return 0;
 }
